@@ -1,0 +1,17 @@
+{
+  "wheel_id": 69,
+  "slug": "financebrokercentralcoast-150",
+  "project": "home-loans-central-coast-financebrokercentralcoast-150",
+  "parent_t1_ref": "financebrokercentralcoast-001",
+  "node_role": "buffer",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "home loans central coast",
+  "intended_url": "https://home-loans-central-coast-financebrokercentralcoast-150.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://home-loans-central-coast.pages.dev/",
+      "anchor": "home loans central coast",
+      "rel": "follow"
+    }
+  ]
+}
