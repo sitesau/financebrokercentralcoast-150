@@ -1,16 +1,16 @@
 {
-  "wheel_id": 69,
+  "wheel_id": 99,
   "slug": "financebrokercentralcoast-150",
-  "project": "home-loans-central-coast-financebrokercentralcoast-150",
-  "parent_t1_ref": "financebrokercentralcoast-001",
+  "project": "refinancing-central-coast-f-150",
+  "parent_t1_ref": "financebrokercentralcoast-002",
   "node_role": "buffer",
   "money_target": "financebrokercentralcoast.com.au",
-  "primary_kw": "home loans central coast",
-  "intended_url": "https://home-loans-central-coast-financebrokercentralcoast-150.vercel.app/",
+  "primary_kw": "refinancing central coast",
+  "intended_url": "https://refinancing-central-coast-f-150.pages.dev/",
   "links": [
     {
-      "target_url": "https://home-loans-central-coast.pages.dev/",
-      "anchor": "home loans central coast",
+      "target_url": "https://refinancing-central-coast-guide.vercel.app/",
+      "anchor": "refinancing central coast",
       "rel": "follow"
     }
   ]
